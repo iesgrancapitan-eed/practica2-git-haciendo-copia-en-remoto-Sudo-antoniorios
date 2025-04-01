@@ -95,12 +95,19 @@ No dice nada creo que porque no ha cambiado nada.
    ![alt text](image-2.png)
 
     No se porque no me funciona
-    
+
 7.  Abre el editor para mostrar el nuevo estado del directorio de trabajo.
    1.  Indica el cambio git status 
+
+   ![alt text](image-3.png)
+
 6. Añade tus hobbies con el mensaje "mis hobbies" en el commit git commit
+
+![alt text](image-4.png)
+
 7. Añade una imagen tuya con el mensaje "mi imagen" en el commit git commit
    
+   ![alt text](image-5.png)
 
    De  interés:
    - [2. Fundamentos de Git](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Obteniendo-un-repositorio-Git)
